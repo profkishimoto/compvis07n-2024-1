@@ -35,12 +35,14 @@
 
 - [Atividade 1 (O que é Computação Visual?)](atividades/n1/n1-ativ01.md) - Entrega até 05/03/2024 23:59
 - [Atividade 2 (Aplicações de Computação Visual)](atividades/n1/n1-ativ02.md) - Entrega até 12/03/2024 23:59
+- [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 19/03/2024 23:59
 
 
 ## ÍNDICE DE AULAS
 
 - [Semana 1: Apresentação da disciplina](#semana-1-2002)
 - [Semana 2: Fundamentos da imagem digital](#semana-2-2702)
+- [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-2202)
 
 
 ## Semana 1 (20/02)
@@ -92,3 +94,31 @@
   - Seção 2.3 (Percepção de cor)
 - **How Your Eyes Make Sense of the World**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=hsh2kPdgazo" target="_blank">YouTube</a>.
 - **The Visual System: How Your Eyes Work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank">YouTube</a>.
+
+
+## Semana 3 (22/02)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Fundamentos da imagem digital.
+    - Sensores e aquisição de imagens.
+    - Amostragem e quantização.
+
+### Online
+
+- [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 19/03/2024 23:59
+
+### Arquivos
+
+- [Fundamentos da imagem digital 2 (pdf)](conteudo/semana-3/Fundamentos%20da%20imagem%20digital%2002.pdf)
+
+### Referências e recursos
+
+- GONZALEZ, R. C.; WOODS, R. E. **Processamento digital de imagens, 3ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Seção 2.3 (Sensores e aquisição de imagens)
+  - Seção 2.4 (Amostragem e quantização de imagens)
+- AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Seção 3.3 (A imagem digital)
+- **How CCD and CMOS Sensors on cameras and scanners work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=kM5R8tB5wqQ" target="_blank">YouTube</a>.
