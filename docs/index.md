@@ -42,7 +42,7 @@
 
 - [Semana 1: Apresentação da disciplina](#semana-1-2002)
 - [Semana 2: Fundamentos da imagem digital](#semana-2-2702)
-- [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-2202)
+- [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-0503)
 
 
 ## Semana 1 (20/02)
@@ -96,7 +96,7 @@
 - **The Visual System: How Your Eyes Work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank">YouTube</a>.
 
 
-## Semana 3 (22/02)
+## Semana 3 (05/03)
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
