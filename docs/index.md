@@ -37,17 +37,19 @@
 - [Atividade 2 (Aplicações de Computação Visual)](atividades/n1/n1-ativ02.md) - Entrega até 12/03/2024 23:59
 - [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 19/03/2024 23:59
 - <a href="https://classroom.github.com/a/LvZA9Dpm" target="_blank">Atividade 4 (GitHub Classroom - AP1)</a> - Entrega até 26/03/2024 23:59
+- <a href="https://classroom.github.com/a/sCy1haLm" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 07/04/2024 23:59
 
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Apresentação da disciplina](#semana-1-2002)
-- [Semana 2: Fundamentos da imagem digital](#semana-2-2702)
-- [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-0503)
-- [Semana 4: Transformações de intensidade e histograma](#semana-4-1203)
+- [Semana 1: Apresentação da disciplina](#-semana-1-2002-)
+- [Semana 2: Fundamentos da imagem digital](#-semana-2-2702-)
+- [Semana 3: Fundamentos da imagem digital (cont.)](#-semana-3-0503-)
+- [Semana 4: Transformações de intensidade e histograma](#-semana-4-1203-)
+- [Semana 5: Interpolação e filtragem espacial](#-semana-5-1903-)
 
 
-## Semana 1 (20/02)
+## ■■■■■ Semana 1 (20/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -66,7 +68,7 @@
 - [Apresentação (pdf)](conteudo/semana-1/Apresentação.pdf)
 
 
-## Semana 2 (27/02)
+## ■■■■■ Semana 2 (27/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -98,7 +100,7 @@
 - **The Visual System: How Your Eyes Work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank">YouTube</a>.
 
 
-## Semana 3 (05/03)
+## ■■■■■ Semana 3 (05/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -126,7 +128,7 @@
 - **How CCD and CMOS Sensors on cameras and scanners work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=kM5R8tB5wqQ" target="_blank">YouTube</a>.
 
 
-## Semana 4 (12/03)
+## ■■■■■ Semana 4 (12/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -154,3 +156,29 @@
   - Seção 3.6 (Operações Pontuais Globais em Imagens)
 
 
+## ■■■■■ Semana 5 (19/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Interpolação.
+- Filtragem espacial.
+
+### Online
+
+- <a href="https://classroom.github.com/a/sCy1haLm" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 07/04/2024 23:59
+
+### Arquivos
+
+- [Interpolação e Filtragem Espacial (pdf)](conteudo/semana-5/Interpolação%20e%20filtragem%20espacial.pdf)
+
+### Referências e recursos
+
+- GONZALEZ, R. C.; WOODS, R. E. **Processamento digital de imagens, 3ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Seção 2.4.4 (Interpolação de imagens)
+  - Seção 3.4 (Fundamentos da filtragem espacial)
+  - Seção 3.5 (Filtros espaciais de suavização)
+- AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Seção 5.2.1 (Filtros Lineares e Não-Lineares)
+  - Seção 5.2.3 (Filtros Passa-Baixa - Filtros de Suavização)
