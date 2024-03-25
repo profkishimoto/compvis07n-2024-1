@@ -49,6 +49,7 @@
 - [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 19/03/2024 23:59
 - <a href="https://classroom.github.com/a/LvZA9Dpm" target="_blank">Atividade 4 (GitHub Classroom - AP1)</a> - Entrega até 26/03/2024 23:59
 - <a href="https://classroom.github.com/a/sCy1haLm" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 07/04/2024 23:59
+- <a href="https://classroom.github.com/a/BfTSQF9R" target="_blank">Atividade 6 (GitHub Classroom - AP3)</a> - Entrega até 10/04/2024 23:59
 
 
 ## ÍNDICE DE AULAS
@@ -58,6 +59,9 @@
 - [Semana 3: Fundamentos da imagem digital (cont.)](#-semana-3-0503-)
 - [Semana 4: Transformações de intensidade e histograma](#-semana-4-1203-)
 - [Semana 5: Interpolação e filtragem espacial](#-semana-5-1903-)
+- [Semana 6: Filtros e detecção de bordas](#-semana-6-2603-)
+- [Semana 7: WTT 2024](#-semana-7-0204-)
+- [Semana 8: **Prova P1**](#-semana-8-0904-)
 
 
 ## ■■■■■ Semana 1 (20/02) ■■■■■
@@ -193,3 +197,55 @@
 - AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Seção 5.2.1 (Filtros Lineares e Não-Lineares)
   - Seção 5.2.3 (Filtros Passa-Baixa - Filtros de Suavização)
+
+
+## ■■■■■ Semana 6 (26/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Filtragem espacial.
+- Detecção de bordas.
+
+### Online
+
+- <a href="https://classroom.github.com/a/BfTSQF9R" target="_blank">Atividade 6 (GitHub Classroom - AP3)</a> - Entrega até 10/04/2024 23:59
+
+### Arquivos
+
+- [Filtros e detecção de bordas (pdf)](conteudo/semana-6/Filtros%20e%20detecção%20de%20bordas.pdf)
+
+### Referências e recursos
+
+- GONZALEZ, R. C.; WOODS, R. E. **Processamento digital de imagens, 3ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Seção 3.6 (Filtros espaciais de aguçamento)
+- AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Seção 5.2.4 (Filtros Passa-Alta ou de Acentuação)
+
+
+## ■■■■■ Semana 7 (02/04) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- WTT 2024 - Workshop de Tendências Tecnológicas (não haverá aula da disciplina).
+
+### Online
+
+- Desenvolvimento das atividades pendentes.
+
+
+## ■■■■■ Semana 8 (09/04) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Prova P1 (presencial e em horário de aula).
+
+### Online
+
+- Desenvolvimento das atividades pendentes.
+
